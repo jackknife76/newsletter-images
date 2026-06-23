@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200" style="border-radius:8px;">
+      <defs>
+        <linearGradient id="fire" x1="0" y1="1" x2="0" y2="0">
+          <stop offset="0%" stop-color="#FF4500"/>
+          <stop offset="50%" stop-color="#FEBC2E"/>
+          <stop offset="100%" stop-color="#FF5F57" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <rect width="400" height="200" rx="8" fill="#0D1117"/>
+      <circle cx="50" cy="30" r="1.5" fill="white" opacity="0.6"/>
+      <circle cx="120" cy="50" r="1" fill="white" opacity="0.4"/>
+      <circle cx="300" cy="25" r="1.5" fill="white" opacity="0.5"/>
+      <circle cx="350" cy="60" r="1" fill="white" opacity="0.6"/>
+      <circle cx="80" cy="40" r="1" fill="white" opacity="0.3"/>
+      <circle cx="250" cy="45" r="1.2" fill="white" opacity="0.5"/>
+      <path d="M190,140 L210,140 L210,100 Q200,80 190,100 Z" fill="#6E1E2A"/>
+      <rect x="187" y="100" width="6" height="15" fill="#FF4500"/>
+      <rect x="207" y="100" width="6" height="15" fill="#FF4500"/>
+      <circle cx="200" cy="110" r="7" fill="#F4F4F6"/>
+      <circle cx="200" cy="110" r="4" fill="#FF4500" opacity="0.6"/>
+      <path d="M192,140 Q200,170 208,140" fill="url(#fire)" opacity="0.9"/>
+      <path d="M195,140 Q200,160 205,140" fill="#FEBC2E" opacity="0.6"/>
+      <text x="200" y="30" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#FF4500">Fable 5 / Mythos 5</text>
+      <text x="200" y="50" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#A9B7C6">now available</text>
+      <rect x="165" y="155" rx="10" ry="10" width="70" height="24" fill="#28C840" opacity="0.15"/>
+      <text x="200" y="171" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#28C840">â— LIVE</text>
+      <text x="200" y="195" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#666">Model Release</text>
+    </svg>
